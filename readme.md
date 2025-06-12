@@ -1,2 +1,3 @@
 ## Hello, Git!
-- I'm adding this from features
+
+I am adding this from features
